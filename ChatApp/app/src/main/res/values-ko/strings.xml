@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="introduce">이 어플은 FireBase와 Android를 사용하여 개발한 어플입니다.
+        \n사용 방법으로는 로그인을 한 후 아래쪽에 보이시는 메뉴를 통하여 채팅과 프로필을 설정할 수 있습니다.
+        \n아직 완벽하지 않아 버그가 있을 수 있으니 주의하시기 바랍니다</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
